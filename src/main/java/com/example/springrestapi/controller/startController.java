@@ -14,6 +14,7 @@ public class startController {
 
         System.out.println("the main application is " + name);
         System.out.println("i am added in the feature");
+        System.out.println("i am from github edit");
         return name;
 
 
