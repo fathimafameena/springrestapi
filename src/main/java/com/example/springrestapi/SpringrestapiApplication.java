@@ -10,7 +10,7 @@ public class SpringrestapiApplication {
         SpringApplication.run(SpringrestapiApplication.class, args);
 
 
-        System.out.println("i am a spring boot application:");
+        System.out.println("i am a spring boot application: i am from feature and new one ");
     }
 
 }
