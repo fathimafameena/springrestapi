@@ -12,7 +12,7 @@ public class startController {
     @GetMapping(value = "/{name}")
     public String fetchapplication(@PathVariable String name) {
 
-        System.out.println("the main application is " + name);
+        System.out.println("the main application but little bit changed " + name);
         System.out.println("i am added in the feature");
         System.out.println("i am from github edit");
         return name;
