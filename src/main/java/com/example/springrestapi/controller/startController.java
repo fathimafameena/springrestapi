@@ -13,6 +13,7 @@ public class startController {
     public String fetchapplication(@PathVariable String name) {
 
         System.out.println("the main application is " + name);
+        System.out.println("i am added in the feature");
         return name;
 
 
